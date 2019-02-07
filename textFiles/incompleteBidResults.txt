@@ -1,0 +1,36 @@
+SLIDING WINDOW:10 BUFFER:10
+time to encode:1683 time to decode:1043
+start Bytes:6488666 endBytes:13275417 ratio:2.0459394
+SLIDING WINDOW:10 BUFFER:20
+time to encode:1470 time to decode:803
+start Bytes:6488666 endBytes:13275417 ratio:2.0459394
+SLIDING WINDOW:10 BUFFER:30
+time to encode:1248 time to decode:767
+start Bytes:6488666 endBytes:13275417 ratio:2.0459394
+SLIDING WINDOW:10 BUFFER:40
+time to encode:1257 time to decode:1005
+start Bytes:6488666 endBytes:13275417 ratio:2.0459394
+SLIDING WINDOW:10 BUFFER:50
+time to encode:2091 time to decode:756
+start Bytes:6488666 endBytes:13275417 ratio:2.0459394
+SLIDING WINDOW:10 BUFFER:60
+time to encode:1255 time to decode:1121
+start Bytes:6488666 endBytes:13275417 ratio:2.0459394
+SLIDING WINDOW:10 BUFFER:70
+time to encode:1277 time to decode:737
+start Bytes:6488666 endBytes:13275417 ratio:2.0459394
+SLIDING WINDOW:10 BUFFER:80
+time to encode:1226 time to decode:763
+start Bytes:6488666 endBytes:13275417 ratio:2.0459394
+SLIDING WINDOW:10 BUFFER:90
+time to encode:1238 time to decode:707
+start Bytes:6488666 endBytes:13275417 ratio:2.0459394
+SLIDING WINDOW:10 BUFFER:100
+time to encode:1224 time to decode:755
+start Bytes:6488666 endBytes:13275417 ratio:2.0459394
+SLIDING WINDOW:10 BUFFER:110
+time to encode:1186 time to decode:761
+start Bytes:6488666 endBytes:13275417 ratio:2.0459394
+SLIDING WINDOW:10 BUFFER:120
+time to encode:1289 time to decode:713
+start Bytes:6488666 endBytes:13275417 ratio:2.0459394

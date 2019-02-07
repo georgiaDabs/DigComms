@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=OutText
+comment1.params=file\ outFile
+comment1.target=OutText(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=long\ getTime()
+comment3.params=byteArray
+comment3.target=void\ decode(byte[])
+comment4.params=outFile
+comment4.target=void\ printBytes(java.lang.String)
+numComments=5
